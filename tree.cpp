@@ -13,6 +13,8 @@ struct Node{
     
 };
 
+//test
+
 void preorder(Node* root){
     if(root == NULL) return;
 
